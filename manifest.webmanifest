@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Lumié — Elemental Companion",
+  "short_name": "Lumié",
+  "description": "Hatch, care for, and train a magical elemental companion.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f0ea",
+  "theme_color": "#211b3c",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
